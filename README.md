@@ -40,7 +40,8 @@ virtual-keyboard/
 
 Clone the repository
 
-git clone https://github.com/your-username/virtual-keyboard.git
+git clone git clone https://github.com/barru-harish/virtual-keyboard.git
+
 
 
 Open index.html in your browser
